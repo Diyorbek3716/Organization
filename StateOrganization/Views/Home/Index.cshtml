@@ -1,0 +1,33 @@
+﻿@using StateInfo.Domain.DTOs
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<StateOrganizationAllDTO>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-6">
+            <div class="card mb-3">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="@item.PhotoUrl" alt="@item.Name" class="img-fluid rounded-start" style="height: 150px; width: 100%; object-fit: cover;">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Name</h5>
+                            <p class="card-text">Tuman: <strong>@item.Id</strong></p>
+                            <p class="card-text"><small class="text-muted">Ish vaqti: 09:00 - 18:00</small></p>
+                            <div class="d-flex">
+                                <a href="#" class="btn btn-primary me-2">Batafsil</a>
+                                <a href="#" class="btn btn-danger">Qabulga yozilish</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

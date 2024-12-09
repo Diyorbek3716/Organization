@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StrateInfo.Infrastructure.deps.json
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StrateInfo.Infrastructure.runtimeconfig.json
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StrateInfo.Infrastructure.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StrateInfo.Infrastructure.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StateInfo.Domain.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\bin\Debug\net8.0\StateInfo.Domain.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateIn.2DF9C986.Up2Date
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\refint\StrateInfo.Infrastructure.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\StrateInfo.Infrastructure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Infrastructure\obj\Debug\net8.0\ref\StrateInfo.Infrastructure.dll

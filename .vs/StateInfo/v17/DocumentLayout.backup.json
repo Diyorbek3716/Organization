@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\StateInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateinfo.domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|solutionrelative:stateinfo.domain\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateinfo.domain\\dtos\\stateorganizationalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|solutionrelative:stateinfo.domain\\dtos\\stateorganizationalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\home\\getallorganization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\home\\getallorganization.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA8D031-3DFE-469A-9D11-43D975D66AB7}|StrateInfo.Application\\StrateInfo.Application.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.application\\services\\istateorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA8D031-3DFE-469A-9D11-43D975D66AB7}|StrateInfo.Application\\StrateInfo.Application.csproj|solutionrelative:strateinfo.application\\services\\istateorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA8D031-3DFE-469A-9D11-43D975D66AB7}|StrateInfo.Application\\StrateInfo.Application.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.application\\services\\stateorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA8D031-3DFE-469A-9D11-43D975D66AB7}|StrateInfo.Application\\StrateInfo.Application.csproj|solutionrelative:strateinfo.application\\services\\stateorganizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.infrastructure\\repositorys\\stateorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|solutionrelative:strateinfo.infrastructure\\repositorys\\stateorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateinfo.domain\\models\\stateorganizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB0D49B-FEDE-41BF-BFE5-B3C1D60A1DC8}|StateInfo.Domain\\StateInfo.Domain.csproj|solutionrelative:stateinfo.domain\\models\\stateorganizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.infrastructure\\repositorys\\istateorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|solutionrelative:strateinfo.infrastructure\\repositorys\\istateorganizationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\stateorganization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34DCFE91-37D3-4FD8-B964-476B9D55DFB4}|StateOrganization\\StateOrganization.csproj|solutionrelative:stateorganization\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|solutionrelative:strateinfo.infrastructure\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|c:\\users\\admin\\source\\repos\\stateinfo\\strateinfo.infrastructure\\migrations\\20241130220717_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D22613-0EFA-4797-B1EB-C109017BCD0A}|StrateInfo.Infrastructure\\StrateInfo.Infrastructure.csproj|solutionrelative:strateinfo.infrastructure\\migrations\\20241130220717_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Program.cs",
+              "RelativeDocumentMoniker": "StateOrganization\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Program.cs",
+              "RelativeToolTip": "StateOrganization\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:40:27.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllOrganization.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\GetAllOrganization.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Home\\GetAllOrganization.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\GetAllOrganization.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\Home\\GetAllOrganization.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:49:08.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StateOrganizationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\Models\\StateOrganizationModel.cs",
+              "RelativeDocumentMoniker": "StateInfo.Domain\\Models\\StateOrganizationModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\Models\\StateOrganizationModel.cs",
+              "RelativeToolTip": "StateInfo.Domain\\Models\\StateOrganizationModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:50:30.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T15:13:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StateOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Application\\Services\\StateOrganizationService.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Application\\Services\\StateOrganizationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Application\\Services\\StateOrganizationService.cs",
+              "RelativeToolTip": "StrateInfo.Application\\Services\\StateOrganizationService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAASwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:42:37.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateOrganizationAllDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\DTOs\\StateOrganizationAllDTO.cs",
+              "RelativeDocumentMoniker": "StateInfo.Domain\\DTOs\\StateOrganizationAllDTO.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\DTOs\\StateOrganizationAllDTO.cs",
+              "RelativeToolTip": "StateInfo.Domain\\DTOs\\StateOrganizationAllDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:24:46.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "StateInfo.Domain\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateInfo.Domain\\Models\\Address.cs",
+              "RelativeToolTip": "StateInfo.Domain\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:59:02.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateOrganization\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateOrganization\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:40:10.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StateOrganizationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Repositorys\\StateOrganizationRepository.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\Repositorys\\StateOrganizationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Repositorys\\StateOrganizationRepository.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\Repositorys\\StateOrganizationRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAASwAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:21:08.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T19:53:45.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStateOrganizationService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Application\\Services\\IStateOrganizationService.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Application\\Services\\IStateOrganizationService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Application\\Services\\IStateOrganizationService.cs",
+              "RelativeToolTip": "StrateInfo.Application\\Services\\IStateOrganizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:42:00.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\appsettings.json",
+              "RelativeDocumentMoniker": "StateOrganization\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\appsettings.json",
+              "RelativeToolTip": "StateOrganization\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T19:46:36.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:33:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStateOrganizationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Repositorys\\IStateOrganizationRepository.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\Repositorys\\IStateOrganizationRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Repositorys\\IStateOrganizationRepository.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\Repositorys\\IStateOrganizationRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T20:21:24.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241130215719_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\Migrations\\20241130215719_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:57:19.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241130220510_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\Migrations\\20241130220510_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:05:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241130220717_FirstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130220717_FirstMigration.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\Migrations\\20241130220717_FirstMigration.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\Migrations\\20241130220717_FirstMigration.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\Migrations\\20241130220717_FirstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T22:07:17.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "StateOrganization\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-30T21:44:10.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:44:17.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StateOrganization\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StateOrganization\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StateOrganization\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T21:33:43.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StrateInfo.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StateInfo\\StrateInfo.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StrateInfo.Infrastructure\\DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:29:39.436Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

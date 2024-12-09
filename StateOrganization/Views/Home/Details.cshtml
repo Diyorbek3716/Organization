@@ -1,0 +1,15 @@
+﻿@using StateInfo.Domain.Models
+@model StateOrganizationModel
+
+<div class="container mt-4">
+    <div class="card">
+        <img src="/StateOrganization/@Model.PhotoUrl" class="card-img-top" alt="Organization Photo">
+        <div class="card-body">
+            <h3>@Model.Name</h3>
+            <p><b>Email:</b> @Model.Email</p>
+            <p><b>Telefon:</b> @Model.TelephoneNumber</p>
+            <p><b>Manzil ID:</b> @Model.AddressId</p>
+            <p><b>Qo'shimcha ma'lumot:</b> @Model.Description</p>
+        </div>
+    </div>
+</div>

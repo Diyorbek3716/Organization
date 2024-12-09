@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\bin\Debug\net8.0\StateInfo.Domain.deps.json
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\bin\Debug\net8.0\StateInfo.Domain.dll
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\bin\Debug\net8.0\StateInfo.Domain.pdb
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.dll
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\refint\StateInfo.Domain.dll
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\StateInfo.Domain.pdb
+C:\Users\Admin\source\repos\StateInfo\StateInfo.Domain\obj\Debug\net8.0\ref\StateInfo.Domain.dll

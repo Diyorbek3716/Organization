@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StrateInfo.Application.deps.json
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StrateInfo.Application.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StrateInfo.Application.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\refint\StrateInfo.Application.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\ref\StrateInfo.Application.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StateInfo.Domain.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StrateInfo.Infrastructure.dll
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StrateInfo.Infrastructure.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\bin\Debug\net8.0\StateInfo.Domain.pdb
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateInfo.Application.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\StateInfo\StrateInfo.Application\obj\Debug\net8.0\StrateIn.36BA98A9.Up2Date
